@@ -1,0 +1,28 @@
+body {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    font-family: "Courier New", Verdana, Georgia;
+    background-color: rgb(243, 175, 119);
+    color: rgb(136, 80, 34);
+}
+
+body h1 {
+    text-align: justify;
+    padding: 5px;
+}
+
+.home {
+    display: block;
+    text-align: center;
+}
+
+.main-content {
+    padding: 5px 25px 25px 25px;
+}
+
+img {
+    border: 5px solid rgba(133, 89, 40, 0.795);
+    margin-bottom: -10px;
+}
